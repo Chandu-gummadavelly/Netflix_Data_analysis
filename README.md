@@ -54,10 +54,3 @@ This Jupyter Notebook project focuses on cleaning, transforming, and visualizing
 - Jupyter Notebook
 
 ---
-
-## ▶️ How to Run This Project
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-github/netflix-movie-analysis.git
-cd netflix-movie-analysis
